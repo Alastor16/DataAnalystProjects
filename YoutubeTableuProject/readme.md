@@ -18,7 +18,8 @@ This project demonstrates the creation of an automated Tableau dashboard to anal
 
 2. **Dashboard Link**  
    - A publicly available Tableau dashboard showcasing the analysis.  
-   [View the Dashboard on Tableau Public](#)
+   [[View the Dashboard on Tableau Public](#)](https://public.tableau.com/app/profile/alejandro.guzman2831/viz/YoutubeTrendsDashboard_17208362116750/Dashboard1?publish=yes  
+)
 
 3. **Presentation**  
    - A presentation based on the Tableau dashboard answering the following questions:  
@@ -46,10 +47,3 @@ This project demonstrates the creation of an automated Tableau dashboard to anal
 
 ---
 
-## Presentation and Dashboard
-- **Dashboard:**  
-  [Explore the Tableau Dashboard](#)
-
-- **Presentation:**  
-  The presentation highlights key trends and regional differences.  
-  [View the Presentation Here](#)
